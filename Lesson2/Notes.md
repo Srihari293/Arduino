@@ -1,1 +1,1 @@
-![How to Semiconductors work?](images\img1.png)
+![How to Semiconductors work?](images/img1.png)
