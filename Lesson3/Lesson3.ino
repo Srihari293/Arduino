@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-//  // Blinking LED
+//  // 1. Basic single LED configuration
 //  digitalWrite(13,HIGH);
 //  delay(50);
 //  digitalWrite(13,LOW);

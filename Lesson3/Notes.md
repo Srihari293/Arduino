@@ -10,4 +10,11 @@ When board is horizontal.
 
 Now we can have nice secure connections. 
 
+## Basic single LED configuration
+**Schematic**
 ![How to Semiconductors work?](images/img2.png)
+Refer to line **10-14**
+
+## 3 LED successive blinking configuration
+![How to Semiconductors work?](images/img3.png)
+Refer to line **20-43**
