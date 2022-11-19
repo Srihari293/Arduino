@@ -7,25 +7,26 @@
 0,1,2,3,4,5,6,7,8,9. Oh wait we have used all characters, so we reuse the characters from this set to create the next number, 10. 
 But counting more than 2 digits require way more characters to count. Therefore we use binary numbers to represent numbers.
 
-| x<sub>1</sub> | x<sub>2</sub> | x<sub>3</sub> | x<sub>4</sub> |
-|--|--|--|--|
-|0|0|0|0|
-|0|0|0|1|
-|0|0|1|0|
-|0|0|1|1|
-|0|1|0|0|
-|0|1|0|1|
-|0|1|1|0|
-|0|1|1|1|
-|1|0|0|0|
-|1|0|0|1|
-|1|0|1|0|
-|1|0|1|1|
-|1|1|0|0|
-|1|1|0|1|
-|1|1|1|0|
-|1|1|1|1|
+| x<sub>1</sub> | x<sub>2</sub> | x<sub>3</sub> | x<sub>4</sub> | Decimal |
+|--|--|--|--|--|
+|0|0|0|0|0|
+|0|0|0|1|1|
+|0|0|1|0|2|
+|0|0|1|1|3|
+|0|1|0|0|4|
+|0|1|0|1|5|
+|0|1|1|0|6|
+|0|1|1|1|7|
+|1|0|0|0|8|
+|1|0|0|1|9|
+|1|0|1|0|10|
+|1|0|1|1|11|
+|1|1|0|0|12|
+|1|1|0|1|13|
+|1|1|1|0|14|
+|1|1|1|1|15|
 
+To learn more about basics of binary number representation and other operations check out this [website](https://www.mathsisfun.com/binary-number-system.html)
 
 ## Excercise:
 SOS in morse code is  . . . ---- . . . 
