@@ -40,8 +40,6 @@ Ans: (2<sup>3</sup> x 1) + (2<sup>2</sup> x 1) + (2<sup>1</sup> x 0) + (2<sup>0<
 
 To learn more about basics of binary number representation and other operations check out this [website](https://www.mathsisfun.com/binary-number-system.html)
 
-## Excercise:
-
-## Basic single LED configuration
-
 ## Homework
+Make an LED counter to count from 0 to 15
+![Set-up](images/img1.png)
