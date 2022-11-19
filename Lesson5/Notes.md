@@ -7,6 +7,7 @@
 0,1,2,3,4,5,6,7,8,9. Oh wait we have used all characters, so we reuse the characters from this set to create the next number, 10. 
 But counting more than 2 digits require way more characters to count. Therefore we use binary numbers to represent numbers.
 
+### Binary to Decimal
 | x<sub>1</sub> | x<sub>2</sub> | x<sub>3</sub> | x<sub>4</sub> | Decimal |
 |--|--|--|--|--|
 |0|0|0|0|0|
@@ -26,19 +27,17 @@ But counting more than 2 digits require way more characters to count. Therefore 
 |1|1|1|0|14|
 |1|1|1|1|15|
 
+### Decimal to Binary
+Summation of the 2<sup><em>position<em></sup> x <em>value of the position<em>
+Ex1: 1100 -> Decimal?
+Ans: 2<sup>3</sup> x 1+ 2<sup>2</sup> x 1 + 2<sup>1</sup> x 0+ 2<sup>0</sup> x 0
+   = 8 + 4 + 0 + 0
+   = 12
+
 To learn more about basics of binary number representation and other operations check out this [website](https://www.mathsisfun.com/binary-number-system.html)
 
 ## Excercise:
-SOS in morse code is  . . . ---- . . . 
-1. The dot duration has to be shorter and the dash duration has to be longer. 
-2. Let us declare dot_time and dash_time as integer variables to set the time once
-3. The output pin gets assigned to the variable blueLED.
 
 ## Basic single LED configuration
-**Schematic**
-![Schematic](images/img2.png)
-![Set-up](images/img1.png)
 
 ## Homework
-3 LEDs doing S.O.S Fast slow and very slow.
-![Homework](images/img3.png)
