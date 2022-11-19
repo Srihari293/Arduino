@@ -32,7 +32,7 @@ Summation of the 2<sup><em> position<em></sup> x <em>value of the position<em>
 
 Ex1: 1100 -> Decimal?
 
-Ans: 2<sup>3</sup> x 1+ 2<sup>2</sup> x 1 + 2<sup>1</sup> x 0+ 2<sup>0</sup> x 0
+Ans: (2<sup>3</sup> x 1) + (2<sup>2</sup> x 1) + (2<sup>1</sup> x 0) + (2<sup>0</sup> x 0)
 
    = 8 + 4 + 0 + 0
 
