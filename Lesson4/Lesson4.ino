@@ -17,6 +17,30 @@ void setup() {
 }
 
 void loop() {
+// // Excercise:
+  // for(i=0;i<3;i++){
+  // digitalWrite(blueLED,HIGH);
+  // delay(dot_time);
+  // digitalWrite(blueLED,LOW);
+  // delay(dot_time);  
+  // }
+  
+  // for(i=0;i<3;i++){
+  // digitalWrite(blueLED,HIGH);
+  // delay(dash_time);
+  // digitalWrite(blueLED,LOW);
+  // delay(dash_time);  
+  // }
+  
+  // for(i=0;i<3;i++){
+  // digitalWrite(blueLED,HIGH);
+  // delay(dot_time);
+  // digitalWrite(blueLED,LOW);
+  // delay(dot_time);  
+  // }
+
+  // delay(end_delay);
+
   // Blue LED
   for(i=0;i<3;i++){
   digitalWrite(blueLED,HIGH);
