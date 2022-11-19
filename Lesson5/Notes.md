@@ -7,7 +7,7 @@
 0,1,2,3,4,5,6,7,8,9. Oh wait we have used all characters, so we reuse the characters from this set to create the next number, 10. 
 But counting more than 2 digits require way more characters to count. Therefore we use binary numbers to represent numbers.
 
-| x~1 | x~2 | x~3 | x~4 |
+| <sup>x<sup> | x~2 | x~3 | x~4 |
 |0|0|0|0|
 |0|0|0|1|
 |0|0|1|0|
