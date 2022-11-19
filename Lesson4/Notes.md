@@ -23,5 +23,8 @@ SOS in morse code is  . . . ---- . . .
 ## Basic single LED configuration
 **Schematic**
 ![Schematic](images/img2.png)
-
 ![Set-up](images/img1.png)
+
+## Homework
+3 LEDs doing S.O.S Fast slow and very slow.
+![Homework](images/img3.png)
