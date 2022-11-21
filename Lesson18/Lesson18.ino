@@ -27,6 +27,7 @@ void loop() {
 //  Serial.println(myNumber);
 
 // Case 2: How many blinks does the user want?
+// Basic LED setup
   // Ask
   Serial.println(msg);
   // Wait
