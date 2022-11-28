@@ -1,5 +1,6 @@
 
-// Lesson 1:
+// Lesson 1: Setting up an Arduino
+
 // 1. Pins 0 to 13 are used for interaction
 // 2. Pin 13 is connected to the LED. So let us try to work on pin 13. 
 void setup() {
